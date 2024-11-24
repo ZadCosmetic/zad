@@ -1,2 +1,3 @@
 # zad
-cusomotic website
+https://zadcosmetic.github.io/zad/
+
